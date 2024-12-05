@@ -1,11 +1,21 @@
 # Yalllo
 
+
+```
+  _________                                   __                         
+ /   _____/______   ____   _______  _______ _/  |_  ______
+ \_____  \\_  __ \_/ __ \_/ __ \  \/ /\__  \\   __\/  ___/
+ /        \|  | \/\  ___/\  ___/\   /  / __ \|  |  \___ \ 
+/_______  /|__|    \___  >\___  >\_/  (____  /__| /____  >
+        \/             \/     \/           \/          \/     
+```
+
 ## A bit about me
+
 
 - I love building machine learning products and applications using Python and Go.
 - I love drinking matcha tea
 - I love tangerines
-
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
