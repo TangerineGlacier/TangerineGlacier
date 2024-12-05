@@ -4,6 +4,8 @@
 
 - I love building machine learning products and applications using Python and Go.
 - I love drinking matcha tea
+- I love tangerines
+
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
