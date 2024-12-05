@@ -4,9 +4,10 @@
 ## A bit about me
 
 
-- I love building machine learning products and applications using Python and Go.
+- I love building full scale machine learning products using Python and Go.
 - I love drinking matcha tea
 - I love tangerines
+
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
@@ -26,7 +27,7 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2338A1F3.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img alt="Langchain" src="https://img.shields.io/badge/Langchain-%23FF00FF.svg?style=for-the-badge&logo=Langchain&logoColor=white"/>
-  
+  <img alt="React Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
 </p>
 
 You can find me here:
