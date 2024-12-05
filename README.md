@@ -20,4 +20,18 @@
   <img alt="MatplotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img alt="MLFlow" src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
   <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=Go&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2338A1F3.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="Langchain" src="https://img.shields.io/badge/Langchain-%23FF00FF.svg?style=for-the-badge&logo=Langchain&logoColor=white"/>
+  
+</p>
+
+You can find me here:
+<p align="center">
+  <a href="https://linkedin.com/in/sreevatsansridhar" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href="mailto:sreevatsankomundur@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
