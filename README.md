@@ -5,8 +5,8 @@
 
 
 - I love building full scale machine learning products using Python and Go.
-- I love drinking matcha tea
-- I love tangerines
+- I love drinking matcha tea and eating tangerines
+- I love playing the violin 🎻
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
