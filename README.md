@@ -40,6 +40,5 @@ You can find me here:
 </p>
 
 <a href="https://llamauth-docs.vercel.app">
-  <img src="https://img.shields.io/badge/Check%20out-llamauth-black?style=for-the-badge" alt="Check out llamauth" style="vertical-align: middle;">
-  <img src="https://avatars.githubusercontent.com/u/158988629?s=20&v=4" alt="llamauth logo" style="height: 20px; vertical-align: middle; margin-left: 5px;">
+  <img src="https://avatars.githubusercontent.com/u/158988629?s=20&v=4" alt="llamauth logo">
 </a>
