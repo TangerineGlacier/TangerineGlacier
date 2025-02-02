@@ -38,7 +38,3 @@ You can find me here:
     <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
-<a href="https://llamauth-docs.vercel.app">
-  <img src="https://avatars.githubusercontent.com/u/158988629?s=20&v=4" alt="llamauth logo">
-</a>
