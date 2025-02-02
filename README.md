@@ -4,7 +4,7 @@
 ## A bit about me
 
 
-- I love building full scale machine learning products using Python and Go.
+- I love building full scale machine learning products using Python and Go @Haya.
 - I love drinking matcha tea
 - I love tangerines
 
@@ -38,3 +38,8 @@ You can find me here:
     <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
+
+<a href="https://llamauth-docs.vercel.app">
+  <img src="https://img.shields.io/badge/Check%20out-llamauth-black?style=for-the-badge" alt="Check out llamauth" style="vertical-align: middle;">
+  <img src="https://avatars.githubusercontent.com/u/158988629?s=20&v=4" alt="llamauth logo" style="height: 20px; vertical-align: middle; margin-left: 5px;">
+</a>
