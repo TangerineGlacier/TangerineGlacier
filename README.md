@@ -1,13 +1,13 @@
 # Yalllo
 
-@Haya
-![Haya](https://img.shields.io/badge/Haya-ffffff?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/153705624?s=200&v=4)
+
 
 
 ## A bit about me
+- Love innovating @Haya!
 - I love building full scale machine learning products using Python and Go.
-- I love drinking matcha tea
-- I love tangerines
+- I drink matcha tea almost every day! 🍵
+- I love tangerines 🍊
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
