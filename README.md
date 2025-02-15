@@ -9,8 +9,9 @@ A bit about me:
 - I drink matcha tea almost every day! 🍵
 - I love tangerines 🍊
 - Check out:
-  <img alt="Llamauth" src="https://github.com/organizations/Llamauth/settings/profile![image](https://github.com/user-attachments/assets/ce4edbff-d907-46ec-8eb0-34d3ff9fd4b5)" href="https://llamauth.unifie.io"/>
-  <img alt="TangerineNvim" src= "https://github.com/TangerineGlacier/nvim-tangerine/raw/main/assets/tangerine.jpg" href="https://github.com/TangerineGlacier/nvim-tangerine/raw/main/assets/tangerine.jpg"/>
+  [![Llamauth](https://github.com/user-attachments/assets/ce4edbff-d907-46ec-8eb0-34d3ff9fd4b5)](https://llamauth.unifie.io)
+  [![TangerineNvim](https://github.com/TangerineGlacier/nvim-tangerine/raw/main/assets/tangerine.jpg)](https://github.com/TangerineGlacier/nvim-tangerine)
+
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
 </p>
