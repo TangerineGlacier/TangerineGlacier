@@ -1,14 +1,11 @@
-# Yalllo
-
-
-
+# Yallo
 
 A bit about me:
 - Love innovating @Haya!
 - I love building full scale machine learning products using Python and Go.
 - I drink matcha tea almost every day! 🍵
 - I love tangerines 🍊
-- 
+
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
 </p>
