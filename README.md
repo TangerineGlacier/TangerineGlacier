@@ -8,10 +8,7 @@ A bit about me:
 - I love building full scale machine learning products using Python and Go.
 - I drink matcha tea almost every day! 🍵
 - I love tangerines 🍊
-- Check out:
-  [Llamauth](https://llamauth.unifie.io)
-  [TangerineNvim](https://github.com/TangerineGlacier/nvim-tangerine)
-
+- 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
 </p>
