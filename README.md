@@ -1,10 +1,11 @@
 # Yalllo
 
+@Haya
+![Haya](https://img.shields.io/badge/Haya-ffffff?style=for-the-badge&logo=https://avatars.githubusercontent.com/u/153705624?s=200&v=4)
+
 
 ## A bit about me
-
-
-- I love building full scale machine learning products using Python and Go @Haya.
+- I love building full scale machine learning products using Python and Go.
 - I love drinking matcha tea
 - I love tangerines
 
