@@ -5,7 +5,7 @@ A bit about me:
 - I love building full scale machine learning products using Python and Go.
 - I drink matcha almost every day! 🍵
 - I love tangerines 🍊
-- Check out [Llamauth](https://docs-llamauth.unifie.io) to integrate Oauth into your enterprise applications
+- Check out [Llamauth](https://docs-llamauth.unifie.io)
 
 <p align="center">
   <img src="dancing-gopher.gif" alt="Dancing Gopher" />
