@@ -5,10 +5,6 @@ A bit about me:
 - I love building full scale machine learning products using Python and Go.
 - I drink matcha almost every day! 🍵
 - I love tangerines 🍊
-
---------------------
-Things I'm working on:
-- I build a lotta cool ML things @Haya
 - Check out [Llamauth](https://docs-llamauth.unifie.io) to integrate Oauth into your enterprise applications
 
 <p align="center">
