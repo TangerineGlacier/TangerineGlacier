@@ -27,13 +27,3 @@ A bit about me:
   <img alt="Langchain" src="https://img.shields.io/badge/Langchain-%23FF00FF.svg?style=for-the-badge&logo=Langchain&logoColor=white"/>
   <img alt="React Js" src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"/>
 </p>
-
-You can find me here:
-<p>
-  <a href="https://linkedin.com/in/sreevatsansridhar" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:sreevatsankomundur@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
