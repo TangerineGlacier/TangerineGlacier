@@ -3,7 +3,6 @@
 A bit about me:
 - Love innovating @Haya!
 - I love building full scale machine learning products using Python and Go.
-- I drink matcha almost every day! 🍵
 - I love tangerines 🍊
 - Check out [Llamauth](https://docs-llamauth.unifie.io)
 
