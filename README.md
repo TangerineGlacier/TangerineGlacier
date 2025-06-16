@@ -3,6 +3,7 @@
 A bit about me:
 - Love innovating @Haya!
 - I love building full scale machine learning products using Python and Go.
+- I try to make my neovim editor the best
 - I love tangerines 🍊
 - Check out [Llamauth](https://docs-llamauth.unifie.io)
 
