@@ -1,4 +1,4 @@
-# Sup Nerds 👋🏻
+# Sup fellow nerds 👋🏻
 
 I build things in ML and try to stay sane with my current Neovim config.  
 
