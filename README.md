@@ -6,7 +6,7 @@ I build things in ML and AI and try to stay sane with my current Neovim config.
 
 
 ### Nerd Corner
-**Keyboards**:[Custom made from Yusha Kobo Keyboard Specialty Shop, Japan](https://shop.yushakobo.jp/en)
+**Keyboards**: [Custom made from Yusha Kobo Keyboard Specialty Shop, Japan](https://shop.yushakobo.jp/en)
 
 **OS**: Mac. Only using Arch to rice 🍚
 
