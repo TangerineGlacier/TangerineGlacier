@@ -25,6 +25,8 @@ Here's gandalf dancing:
 
 
 (Miss the gopher...? He's also back)
-<p align="centre">
+<p align="center">
+  <img alt="GIF" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" width="120">
+  <img alt="GIF" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" width="120">
   <img alt="GIF" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" width="120">
 </p>
