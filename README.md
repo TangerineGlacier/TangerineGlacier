@@ -22,3 +22,9 @@ Here's gandalf dancing:
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120">
   <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="120">
 </p>
+
+
+(Miss the gopher...? He's also back)
+<p align="centre">
+  <img alt="GIF" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" width="120">
+</p>
